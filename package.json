@@ -1,0 +1,21 @@
+{
+  "name": "proyecto-node",
+  "version": "1.0.0",
+  "description": "proyecto node js crud",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "javascript",
+    "crud"
+  ],
+  "author": "Andres",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
